@@ -1,0 +1,1 @@
+This project recreates the image with the ASCII characters. Doomer.jpg is the original image, two .txt files are the results. First one is using the smaller set of characters thus being more contrast (and actually better-looking overall).
